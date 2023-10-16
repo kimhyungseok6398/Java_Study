@@ -1,4 +1,4 @@
-package exam01;
+package 변수_01;
 
 public class Ex01 {
     public static void main(String[] args) {
