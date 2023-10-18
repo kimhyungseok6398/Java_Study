@@ -1,4 +1,4 @@
-package 변수_02;
+package review.exam01_variable;
 
 public class Ex04 {
     public static void main(String[] args) {
