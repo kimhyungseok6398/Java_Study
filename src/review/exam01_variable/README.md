@@ -65,4 +65,28 @@
 * ex) final int MAX;
 
 
+## 12. 묵시적 형변환
+* 묵시적 형변환
+* 작은 자료형 -> 큰 자료형으로 변환
+* ex)  byte num1 = 100; -> int num2 = num1;
+* 연산중 자동 형변환 : 연산은 같은 자료형끼리 가능 
+* ex) int result = num1 + num2; -> System.out.println(result);
+* 정수 ( 덜 정밀한 숫자 -> 더 정밀한 숫자)
+* byte(1) -> short(2) -> int(4) -> long(8) -> float(4) -> double(8)
+
+
+## 13. 명시적 형변환
+* 데이터의 유실이 발생할 가능성이 있는 경우 - 자동 형변환 X
+* 명시적으로 형변환 의사 표현 
+* 큰 자료형 -> 작은 자료형 
+* ex ) long -> int 
+* ex ) 유실 가능성 -> 실수 -> 정수 
+* --> double -> long
+* --> double -> int == 100.1234 -> 100
+*  ex) int num1 = 1000; byte num2 = (byte)num1;
+   System.out.println(num2);
+  
+  
+
+
 
