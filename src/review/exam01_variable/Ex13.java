@@ -12,6 +12,5 @@ public class Ex13 {
         int num4 = (int)num3;
         System.out.println(num4);
 
-
     }
 }
