@@ -8,5 +8,7 @@ public class Ex10 {
 
       int result = num1 + num2;
       System.out.println(result);
+
     }
+
 }

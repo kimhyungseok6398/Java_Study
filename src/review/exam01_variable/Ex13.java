@@ -11,5 +11,7 @@ public class Ex13 {
      // 데이터 유실 위험   int num4 = num3;
         int num4 = (int)num3;
         System.out.println(num4);
+
+        
     }
 }
