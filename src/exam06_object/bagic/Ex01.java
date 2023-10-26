@@ -4,7 +4,7 @@ public class Ex01 {
     public static void main(String[] args) {
         Student s1 = new Student();
         // s1 지역변수
-        s1.Id = 1000;
+        s1.id = 1000;
         s1.name = "김형석1";
         s1.subject = "과목1";
 
