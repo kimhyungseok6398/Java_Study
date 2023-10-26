@@ -70,7 +70,18 @@
 ## 12.참조 자료형
 * 클래스 형 자료형 : 객체의 주소값만 가지고 참고해서 접근 
 * 참조 자료형
-* 전부 동일한 크기를 가지고 있다(4바이트)
+  * 전부 동일한 크기를 가지고 있다(4바이트)
+
+           Student s1 = new Student();
+          // s1 지역변수
+          s1.Id = 1000;
+          s1.name = "김형석1";
+          s1.subject = "과목1";
+
+          System.out.println(s1);
+          System.out.println(System.identityHashCode(s1));
+          // 실제 힙에 있는 객체의 주소를 알수 있다
+          s1.study();}}
 
 ## 13.main() 메서드 
 * 모든 프로그램의 시작 메서드
