@@ -1,4 +1,4 @@
-package exam07_object_get_set;
+package exam07_object_접근제어;
 
 public class Schedule {
    private int year;
