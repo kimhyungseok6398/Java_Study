@@ -1,4 +1,4 @@
-package exam08_object;
+package exam08_object_private_2;
 
 public class Ex01 {
     public static void main(String[] args) {
