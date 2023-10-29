@@ -1,4 +1,4 @@
-package exam07_object_접근제어;
+package exam07_object_private_1;
 
 public class Ex02 {
     public static void main(String[] args) {

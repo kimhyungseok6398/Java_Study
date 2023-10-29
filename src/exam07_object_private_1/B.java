@@ -1,4 +1,4 @@
-package exam07_object_접근제어;
+package exam07_object_private_1;
 
 public class B extends A{
     public B(){
