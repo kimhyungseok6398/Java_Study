@@ -26,7 +26,7 @@
         }
     
 
-    int Id; // 학번
+        int Id; // 학번
 
         String name; // 학생명
 
@@ -76,7 +76,7 @@
         Student s1 = new Student();
         // s1 지역변수
         s1.Id = 1000;
-        s1.name = "김형석1";
+        s1.name = "김아무개1";
         s1.subject = "과목1";
 
         System.out.println(s1);
