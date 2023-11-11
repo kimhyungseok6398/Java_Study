@@ -5,5 +5,9 @@ public abstract class Calculator {
     public abstract int add(int num1 ,int num2);
     // 객체가 되야함
 
+    public void commonMethod(){
+        System.out.println("공통기능!");
+    }
+
 }
 
