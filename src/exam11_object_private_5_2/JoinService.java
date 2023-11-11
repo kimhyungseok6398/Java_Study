@@ -13,6 +13,6 @@ public class JoinService {
             // 필요할때만 만들어서 사용 용이
         }
         return instance;
-    } 
+    }
 
 }
