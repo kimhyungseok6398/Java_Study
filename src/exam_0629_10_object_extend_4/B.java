@@ -1,4 +1,4 @@
-package exam_0629_10_object_interface_4;
+package exam_0629_10_object_extend_4;
 
 public class B extends A{
     int numB = 20;

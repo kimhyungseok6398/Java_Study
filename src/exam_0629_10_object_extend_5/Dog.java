@@ -1,4 +1,4 @@
-package exam_0629_10_object_interface_5;
+package exam_0629_10_object_extend_5;
 
 public class Dog extends Animal{
     public void move(){

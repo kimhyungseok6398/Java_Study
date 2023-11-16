@@ -1,4 +1,4 @@
-package exam_0629_10_object_interface_5;
+package exam_0629_10_object_extend_5;
 
 public class Human extends Animal{
     @Override //  컴파일시 재정의된  알려주는 어노테이션

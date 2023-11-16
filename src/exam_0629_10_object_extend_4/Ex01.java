@@ -1,4 +1,4 @@
-package exam_0629_10_object_interface_4;
+package exam_0629_10_object_extend_4;
 
 public class Ex01 {
     public static void main(String[] args) {

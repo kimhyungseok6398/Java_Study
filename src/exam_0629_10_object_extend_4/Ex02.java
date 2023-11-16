@@ -1,6 +1,4 @@
-package exam_0629_10_object_interface_4;
-
-import exam14_object_extends_3.Animal;
+package exam_0629_10_object_extend_4;
 
 public class Ex02 {
     public static void main(String[] args) {
