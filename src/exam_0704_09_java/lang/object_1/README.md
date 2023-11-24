@@ -51,4 +51,7 @@
 * Colletions : 컬렉션의 편의기능
 * 일반적으로 비교는 equals and hashCode;
 
-## java
+## String 클레스 
+* String을 선언하는 두 가지 방법
+* String 변수명 = "문자열";
+* String 변수명 = new String ("문자열");
